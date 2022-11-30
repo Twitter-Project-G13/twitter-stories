@@ -1,0 +1,8 @@
+#!/bin/bash
+echo what is your name
+read name
+echo what is your age
+read age
+echo $name lives, $age old lives in Canada.
+echo the end
+
